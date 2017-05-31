@@ -1,1 +1,3 @@
-file 2 in new_branch
+file 2 in new_branch  
+
+merge conflicts
