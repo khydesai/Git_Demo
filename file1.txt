@@ -1,3 +1,0 @@
-check git log --stat
-
-check git log --stat2 ---check merge conflicts
