@@ -1,4 +1,4 @@
 this is repo1
 fdsfdsfdsf
 
-checking for status command after push to github
+checking for status command after push to github --- edit same line 1
