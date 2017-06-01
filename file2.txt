@@ -6,3 +6,4 @@ checking for status command after push to github -- edit smae line 2
 
 checking for status command after push to github --- edit same line 1
 
+check for amend
