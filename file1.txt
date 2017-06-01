@@ -8,9 +8,13 @@ added
 
 check git log --stat2 ---check merge conflicts
 checking for delete file
+<<<<<<< HEAD
 
 
 for_test
+
+to check commit & pull by multiplke
+
 
 to check commit & pull by multiplke
 
