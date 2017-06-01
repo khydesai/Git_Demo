@@ -8,3 +8,4 @@ added
 
 check git log --stat2 ---check merge conflicts
 checking for delete file
+to check commit & pull by multiplke
