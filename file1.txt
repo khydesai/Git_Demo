@@ -8,3 +8,5 @@ added
 
 check git log --stat2 ---check merge conflicts
 checking for delete file
+
+for_test
